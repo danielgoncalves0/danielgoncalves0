@@ -9,7 +9,7 @@ Sou um estudante do 11º ano a aprender programação, focado em **C#** e a dar 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-* **Linguagens:** C#, SQL, HTML/CSS
+* **Linguagens:** C#, C++ 
 * **Ferramentas:** Visual Studio, Git, GitHub
 * **Ambientes:** .NET
 
