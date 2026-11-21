@@ -1,16 +1,19 @@
-## Hi there 👋
+### Olá! 👋 Sou o Daniel Gonçalves
 
-<!--
-**danielgoncalves0/danielgoncalves0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante do 11º ano a aprender programação, focado em **C#** e a dar os primeiros passos para construir o meu portefólio de desenvolvimento de software. 
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou a aprender conceitos de programação orientada a objetos (POO) e a desenvolver projetos em C#.
+- 💻 Gosto de criar aplicações práticas, ferramentas de consola e explorar o mundo da programação.
+- 📬 Podes contactar-me através do meu GitHub ou email.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+* **Linguagens:** C#, SQL, HTML/CSS
+* **Ferramentas:** Visual Studio, Git, GitHub
+* **Ambientes:** .NET
+
+---
+
+### 📊 Estatísticas do GitHub
+![Estatísticas do GitHub de Daniel](https://github-readme-stats.vercel.app/api?username=danielgoncalves0&show_icons=true&theme=radical)
